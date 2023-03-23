@@ -1,29 +1,44 @@
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Dto\LoginUsuario.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Service\RolService.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Controller\ExperienciaController.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Dto\NuevoUsuario.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\jwt\JwtTokenFilter.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Entity\Persona.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Interface\IPersonaService.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Service\ImpExperienciaService.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Entity\Experiencia.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Entity\Usuario.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Service\UserDetailsImpl.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Entity\Rol.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Controller\Mensaje.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Enums\RolNombre.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Repository\iUsuarioRepository.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Service\ImpPersonaService.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Repository\IExperienciaRepository.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\jwt\JwtEntryPoint.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Controller\AuthController.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\MainSecurity.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Repository\iRolRepository.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Repository\IPersonaRepository.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Service\UsuarioService.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Dto\JwtDto.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\jwt\JwtProvider.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\MgyApplication.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Interface\IExperienciaService.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Security\Entity\UsuarioPrincipal.java
-D:\Users\Mario\Documents\GONZ@LO_1\WORKING\PROGRAMA ARGENTINA PROGRAMA\2da Etapa - YoProgramo\portfolio\proyectoporfolio22\BackEnd\src\main\java\com\portfolio\mgy\Controller\PersonaController.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Dto\dtoExperiencia.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Controller\CExperiencia.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Interface\IPersonaService.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Controller\Mensaje.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Service\UsuarioService.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Dto\dtoSkills.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Entity\Educacion.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Repository\REducacion.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Dto\JwtDto.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Repository\IPersonaRepository.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Service\Seducacion.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Controller\AuthController.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Controller\PersonaController.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Service\SProyectos.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Entity\Experiencia.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Entity\Usuario.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Repository\iRolRepository.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Repository\RExperiencia.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Entity\Persona.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Dto\NuevoUsuario.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Controller\CEducacion.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Controller\CSkills.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Dto\dtoProyectos.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Entity\Proyectos.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Enums\RolNombre.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Service\UserDetailsImpl.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Entity\Rol.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Repository\iUsuarioRepository.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Service\SSkills.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\MainSecurity.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Service\RolService.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\jwt\JwtEntryPoint.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Service\SExperiencia.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Entity\UsuarioPrincipal.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\lvzApplication.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\jwt\JwtTokenFilter.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Entity\Skills.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Repository\RProyectos.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\Dto\LoginUsuario.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Repository\RSkills.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Security\jwt\JwtProvider.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Service\ImpPersonaService.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Controller\CProyectos.java
+C:\Users\MDS\Desktop\BackEnd_lvz\src\main\java\com\portfolio\lvz\Dto\dtoEducacion.java
