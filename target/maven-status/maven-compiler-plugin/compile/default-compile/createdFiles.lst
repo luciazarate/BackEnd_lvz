@@ -35,6 +35,7 @@ com\portfolio\lvz\Security\Service\UsuarioService.class
 com\portfolio\lvz\Service\SProyectos.class
 com\portfolio\lvz\Security\Service\RolService.class
 com\portfolio\lvz\Interface\IPersonaService.class
+com\portfolio\lvz\WebConfig.class
 com\portfolio\lvz\Controller\CEducacion.class
 com\portfolio\lvz\Security\Dto\NuevoUsuario.class
 com\portfolio\lvz\Service\ImpPersonaService.class

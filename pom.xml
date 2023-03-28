@@ -12,7 +12,7 @@
     <artifactId>lvz</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>lvz</name>
-    <description>Portfolio de MGY</description>
+    <description>Portfolio de LVZ</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
