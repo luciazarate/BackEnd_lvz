@@ -1,4 +1,4 @@
-FROM amazoncorretto:11-alpine-jdk
-maintainer app
+FROM amazoncorretto: 11-alpine-jdk
+maintainer lvz
 COPY target/lvz-0.0.1-SNAPSHOT.jar app.jar
 ENTRYPOINT ["java","-jar","/app.jar"]
